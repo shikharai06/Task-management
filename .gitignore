@@ -1,0 +1,47 @@
+############################
+# Maven / Build files
+############################
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+############################
+# Spring Boot
+############################
+HELP.md
+
+############################
+# Eclipse / STS
+############################
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache/
+
+############################
+# IntelliJ IDEA
+############################
+.idea/
+*.iml
+*.iws
+*.ipr
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# OS generated files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Logs
+############################
+*.log
