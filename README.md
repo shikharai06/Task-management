@@ -93,10 +93,9 @@ POST /tasks
 Request Body:
 ```json
 {
-  "title": "Learn Spring Boot",
-  "description": "DDD + Clean Code",
-  "status": "PENDING",
-  "dueDate": "2027-01-11"
+  "title": "Learn Spring Boot task 1",
+  "description": "DDD + DTO + Clean code",
+  "due_date": "2027-11-11"
 }
 ```
 
